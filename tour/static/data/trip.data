@@ -1,0 +1,5 @@
+[{"id":1,"name":"DAY 1","context":[{"plan":"上午","content":"8点开始飞往拉萨"},{"plan":"上午","content":"13点下飞机搞定住宿"}]},
+{"id":2,"name":"DAY 2","context":[{"plan":"上午","content":"7点起来吃早餐"},{"plan":"中午","content":"逛布达拉宫"},{"plan":"下午","content":"观看草原民俗"}]},
+{"id":3,"name":"DAY 3","context":[{"plan":"上午","content":"7点起来吃早餐"},{"plan":"中午","content":"逛布达拉宫"},{"plan":"晚上","content":"观看草原民俗"}]},
+{"id":4,"name":"DAY 4","context":[{"plan":"上午","content":"7点起来吃早餐"},{"plan":"下午","content":"逛布达拉宫"},{"plan":"晚上","content":"观看草原民俗"}]}
+]
